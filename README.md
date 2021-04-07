@@ -16,7 +16,7 @@ git commands : git workshop vignan 06-04-21
 
 ![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
-[![image](https://wallpapercave.com/wp/wp2718197.jpg)](https://media.tenor.com/images/f3f4e488947f6aa40faed44ad8ae0723/tenor.gif)
+[![image](https://wallpapercave.com/wp/wp2718197.jpg)](https://i.makeagif.com/media/4-09-2015/RqPuP1.gif)
 
 * Android
   * Alpha

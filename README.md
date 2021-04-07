@@ -9,11 +9,12 @@ git commands : git workshop vignan 06-04-21
 *Emphasised Text*
 
 [facebook](www.facebook.com)
+
 ##ignore
 
 [![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gQ-dZXXplCmQWbaQHjSzp0UHThNXCrTaTg&usqp=CAU)](https://github.com/yihui/xaringan)
 
-![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png = 250*250)
+![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)=250*250
 
 * Android
   * Alpha

@@ -16,7 +16,7 @@ git commands : git workshop vignan 06-04-21
 
 ![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
-[![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gQ-dZXXplCmQWbaQHjSzp0UHThNXCrTaTg&usqp=CAU)](https://www.pngitem.com/pimgs/m/523-5232723_sticker-kikoojap-minato-namikaze-yondaime-hokage-konoha-minato.png)
+[![image](https://wallpapercave.com/wp/wp2718197.jpg)](https://media.tenor.com/images/f3f4e488947f6aa40faed44ad8ae0723/tenor.gif)
 
 * Android
   * Alpha

@@ -10,9 +10,9 @@ git commands : git workshop vignan 06-04-21
 
 [facebook](www.facebook.com)
 
-![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
+[![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gQ-dZXXplCmQWbaQHjSzp0UHThNXCrTaTg&usqp=CAU)](https://github.com/yihui/xaringan)
 
-[![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gQ-dZXXplCmQWbaQHjSzp0UHThNXCrTaTg&usqp=CAU)](https://github.com/)
+![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
 * Android
   * Alpha

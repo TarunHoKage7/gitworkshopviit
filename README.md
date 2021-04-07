@@ -1,9 +1,9 @@
 # gitworkshopviit
 git commands : git workshop vignan 06-04-21
 # Git practice repo 
-#to know hiddend files -> ls -a(this is without permission)
-#to know all the files with permissions -> ls -la(this is with permission)
-#to know verion in git -> git --version
+to know hiddend files -> ls -a(this is without permission)
+to know all the files with permissions -> ls -la(this is with permission)
+to know verion in git -> git --version
 #to initialize folder -> git init (hidden folder created like .git)
 #to check satuts of file -> git status
 #to change from untracked to staging area -> git add filename or git add .

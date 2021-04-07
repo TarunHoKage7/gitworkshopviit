@@ -21,10 +21,17 @@ git commands : git workshop vignan 06-04-21
     * CupCake
       * Unordered List 
 
-1. Android
-  1. Beta
-    1. Cupcake
-      1.Ordered List  
+  1. Android
+    1. Beta
+      1. Cupcake
+        1.Ordered List  
+
+S.No    |  Name
+        |
+--------|-------
+01      | Android
+02      | Beta
+03      | Table
 
 #to know hiddend files -> ls -a(this is without permission)
 

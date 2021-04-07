@@ -2,6 +2,18 @@
 git commands : git workshop vignan 06-04-21
 # Git practice repo 
 
+**Strong text**
+
+***Strong emphasised text***
+
+*Emphasised Text*
+
+[facebook](www.facebook.com)
+
+![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
+
+* Android
+  * Alpha
 #to know hiddend files -> ls -a(this is without permission)
 
 #to know all the files with permissions -> ls -la(this is with permission)

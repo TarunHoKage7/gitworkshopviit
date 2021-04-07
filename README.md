@@ -27,10 +27,15 @@ git commands : git workshop vignan 06-04-21
         1.Ordered List  
 
 S.No    |  Name
+
         |
+        
 --------|-------
+
 01      | Android
+
 02      | Beta
+
 03      | Table
 
 #to know hiddend files -> ls -a(this is without permission)

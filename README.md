@@ -12,7 +12,7 @@ git commands : git workshop vignan 06-04-21
 
 ![image](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
-[![image](https://i.stack.imgur.com/QvaY2.png)](https://github.com/)
+[![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_gQ-dZXXplCmQWbaQHjSzp0UHThNXCrTaTg&usqp=CAU)](https://github.com/)
 
 * Android
   * Alpha
